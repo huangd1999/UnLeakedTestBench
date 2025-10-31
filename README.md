@@ -2,7 +2,7 @@
 
 **Benchmarking LLMs for Unit Test Generation from Real-World Functions**
 
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/2508.00408)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -162,7 +162,6 @@ This approach allows researchers to evaluate new models while maintaining the be
 
 We welcome contributions to improve UnLeakedTestBench! Areas of interest:
 
-- Extending to other programming languages
 - Adding new evaluation metrics
 - Improving decontamination techniques
 - Evaluating additional LLMs
