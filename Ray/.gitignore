@@ -1,0 +1,12 @@
+data/mods/*
+data/correct_tasks
+.vscode/launch.json
+data/__MACOSX/._results
+data/__MACOSX/results/._.DS_Store
+data/results/.DS_Store
+data/results/*
+cyclomatic_complexity.jsonl
+data/results.zip
+data/*
+mutation_details.jsonl
+new_mutation_details.jsonl
